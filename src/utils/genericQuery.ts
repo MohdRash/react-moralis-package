@@ -1,3 +1,4 @@
+//support for react-native environment 
 import MoralisType from "moralis";
 
 export type DefaultQueryAttribute = MoralisType.Attributes;
