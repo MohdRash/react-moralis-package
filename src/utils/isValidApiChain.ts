@@ -1,3 +1,4 @@
+//add additional hooks
 import { ApiChain } from "../config/";
 
 export const isValidApiChain = (chain?: string | null) => {
