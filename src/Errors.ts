@@ -1,3 +1,4 @@
+//error-handler
 export class ReactMoralisError extends Error {
   static isReactMoraliserrpr = true;
 
